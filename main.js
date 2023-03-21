@@ -10,7 +10,7 @@ const myArray = [
   {
     id: 2,
     image: "./src/assets/nav3.jpg",
-    heading1: "FAIR FRIENDLY",
+    heading1: "FAIR & FRIENDLY",
     heading2: "Service"
   },
   {
