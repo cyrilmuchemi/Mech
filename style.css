@@ -530,3 +530,114 @@ h6 {
   height: 100%;
 }
 
+.about-us {
+  width: 100%;
+  background-color: #e5e5e5;
+}
+
+.about-us-container {
+  display: flex;
+  width: 100%;
+  background-color: #e5e5e5;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.about-us-header {
+  color: #191919;
+  display: flex;
+  font-weight: lighter;
+  align-self: center;
+  font-size: 36px;
+}
+
+.about-us-header h4 {
+  padding-top: 18px;
+}
+
+#about-us-image {
+  width: 100%;
+}
+
+.about-us-image {
+  width: 90%;
+}
+
+.about-us-intro {
+  color: #191919;
+  width: 80%;
+  font-size: 24px;
+}
+
+.about-us-main {
+  font-size: 18px;
+  width: 90%;
+}
+
+.about-us-button {
+  margin-top: 1.2rem;
+  width: 200px;
+  font-size: 18px;
+  display: flex;
+  background-color: #dc3545;
+  cursor: pointer;
+  color: #fff;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+}
+
+.about-us-button:hover {
+  color: #191919;
+  background-color: #EEC511;
+}
+
+.our-advantages {
+  width: 100%;
+  background: #e5e5e5;
+}
+
+.our-advantages-container {
+  width: 100%;
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #191919;
+}
+
+.our-advantages-header span {
+  font-size: 33px;
+  padding-left: 60px;
+}
+
+.our-advantages-header h6 {
+  margin-bottom: 0;
+} 
+
+.advantage-number {
+  width: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  height: 48px;
+  background-color: #dc3545;
+  color: #fff;
+  font-size: 25px;
+}
+
+.advantages-span {
+  font-size: 22px;
+  padding-inline: 0.8rem;
+}
+
+.advantages-paragraph {
+  color: #777;
+  font-size: 17px;
+}
